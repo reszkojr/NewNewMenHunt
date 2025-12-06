@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 d585431a8179596b7f4b5af683cfb26a40960022 reszkojr <s.reszkojr@gmail.com> 1658782254 -0300	commit (initial): Project Created
+d585431a8179596b7f4b5af683cfb26a40960022 6ffd51db9aa902a6140b866cce8448294074b249 reszkojr <s.reszkojr@gmail.com> 1658782342 -0300	commit: Initial Setup
+6ffd51db9aa902a6140b866cce8448294074b249 34e05d1d8bc890fec0417902087ce189c1f535ad reszkojr <s.reszkojr@gmail.com> 1658782568 -0300	commit: Utils class
+34e05d1d8bc890fec0417902087ce189c1f535ad a82cc04856ec071c4a42e692f909c46f26926a6a reszkojr <s.reszkojr@gmail.com> 1658947788 -0300	commit: Speedrunner command class
+a82cc04856ec071c4a42e692f909c46f26926a6a 23fb9d40aa3914ee44368c4ab5dbeec46ca06a73 reszkojr <s.reszkojr@gmail.com> 1658948490 -0300	commit: Speedrunner command basic logic
+23fb9d40aa3914ee44368c4ab5dbeec46ca06a73 49ed392e9dbd80ffd7ff4337e5eec519b31a1005 reszkojr <s.reszkojr@gmail.com> 1658949206 -0300	commit: Speedrunner entity
+49ed392e9dbd80ffd7ff4337e5eec519b31a1005 a9184558dacae45baf2f500aa5abdbbb51e3aafe reszkojr <s.reszkojr@gmail.com> 1658949738 -0300	commit: Speedrunner can now be set/removed
+a9184558dacae45baf2f500aa5abdbbb51e3aafe 49ed392e9dbd80ffd7ff4337e5eec519b31a1005 reszkojr <s.reszkojr@gmail.com> 1658949747 -0300	reset: moving to HEAD~1
+49ed392e9dbd80ffd7ff4337e5eec519b31a1005 6bee3c468c64c6de4bc11610cfbb141abdb7c148 reszkojr <s.reszkojr@gmail.com> 1658955361 -0300	commit: Restructured Commands class to avoid naming issues
+6bee3c468c64c6de4bc11610cfbb141abdb7c148 3159d94f33a28199b51a47159b6367dae40c390c reszkojr <s.reszkojr@gmail.com> 1658955809 -0300	commit: Speedrunner command is now functional
+3159d94f33a28199b51a47159b6367dae40c390c 6a69dca10862ed7ad3a5831148ab2110515cfa29 reszkojr <s.reszkojr@gmail.com> 1658957637 -0300	commit: PointerCreator created and logic
+6a69dca10862ed7ad3a5831148ab2110515cfa29 806ecc6c618db80b1dadc88a55f48ec41267e71f reszkojr <s.reszkojr@gmail.com> 1658958516 -0300	commit: HunterList implementation and some Speedrunner entity tweaks
+806ecc6c618db80b1dadc88a55f48ec41267e71f 7be05a0f908afef89ac192012a1a6353485d2b3b reszkojr <s.reszkojr@gmail.com> 1658970946 -0300	commit: PointerUpdater class and basic logic
+7be05a0f908afef89ac192012a1a6353485d2b3b e1af4a109d8e476e3c731e64613586fc873d87e3 reszkojr <s.reszkojr@gmail.com> 1659014743 -0300	commit: PointerUpdater class finished and implemented
+e1af4a109d8e476e3c731e64613586fc873d87e3 877d267211cfc81500c57ee01a22c5f6a495b485 reszkojr <s.reszkojr@gmail.com> 1659014823 -0300	commit: plugin.yml
+877d267211cfc81500c57ee01a22c5f6a495b485 f3df0390c13382e2841bf573d55772eb94a4e90c reszkojr <s.reszkojr@gmail.com> 1659024646 -0300	commit: Some bug fixes and error treatment
+f3df0390c13382e2841bf573d55772eb94a4e90c f3df0390c13382e2841bf573d55772eb94a4e90c reszkojr <s.reszkojr@gmail.com> 1659024856 -0300	Branch: renamed refs/heads/master to refs/heads/main
+f3df0390c13382e2841bf573d55772eb94a4e90c f4b55bcf1c77117cf8b2c3091937b3a8cb7257cf reszkojr <s.reszkojr@gmail.com> 1659024902 -0300	pull origin main --allow-unrelated-histories: Merge made by the 'recursive' strategy.
+f4b55bcf1c77117cf8b2c3091937b3a8cb7257cf 2d94ebaabe207774cd1fc0a786405d8c3a1921da reszkojr <s.reszkojr@gmail.com> 1659309839 -0300	commit: Speedrunner and Hunters events treated
+2d94ebaabe207774cd1fc0a786405d8c3a1921da b197d4e79566629a0b9636ab5a0f33850f475445 reszkojr <s.reszkojr@gmail.com> 1764997814 -0300	commit: Restructured project in order to fucking work & implemented lava pool finding mechanism
+b197d4e79566629a0b9636ab5a0f33850f475445 2d94ebaabe207774cd1fc0a786405d8c3a1921da reszkojr <s.reszkojr@gmail.com> 1764997894 -0300	reset: moving to HEAD~1
+2d94ebaabe207774cd1fc0a786405d8c3a1921da 1440bef177a91fee895217d31cd310f7f01f5751 reszkojr <s.reszkojr@gmail.com> 1764998074 -0300	commit: fix fucking gitignore
+1440bef177a91fee895217d31cd310f7f01f5751 16340eb6a18112cc29e1f4a312c24dcef1784aa5 reszkojr <s.reszkojr@gmail.com> 1764998352 -0300	commit: agora vai
+16340eb6a18112cc29e1f4a312c24dcef1784aa5 1440bef177a91fee895217d31cd310f7f01f5751 reszkojr <s.reszkojr@gmail.com> 1764998372 -0300	reset: moving to HEAD~1

@@ -1,0 +1,7 @@
+name: MenHunt
+main: me.santres.menhunt.MenHunt
+version: 1
+author: Santres
+api-version: 1.21.10
+commands:
+  speedrunner:

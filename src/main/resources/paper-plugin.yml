@@ -1,0 +1,4 @@
+name: MenHunt
+version: '1.0-SNAPSHOT'
+main: me.reszko.menhunt.MenHunt
+api-version: '1.21'
