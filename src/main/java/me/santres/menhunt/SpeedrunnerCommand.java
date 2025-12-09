@@ -13,14 +13,14 @@ import org.bukkit.entity.Player;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Command implements CommandExecutor, TabCompleter {
+public class SpeedrunnerCommand implements CommandExecutor, TabCompleter {
 
     PointerUpdater pointer;
     LavaPoolPointerUpdater lavaPoolPointerUpdater;
     MenHunt plugin;
     LavaPoolFinder lavaPoolFinder;
 
-    public Command(PointerUpdater pointer, MenHunt plugin) {
+    public SpeedrunnerCommand(PointerUpdater pointer, MenHunt plugin) {
         this.pointer = pointer;
         this.plugin = plugin;
     }

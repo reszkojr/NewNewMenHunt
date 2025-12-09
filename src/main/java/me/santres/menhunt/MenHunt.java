@@ -27,7 +27,7 @@ public class MenHunt extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        Bukkit.getPluginCommand("speedrunner").setExecutor(new Command(pointer, this));
+        Bukkit.getPluginCommand("speedrunner").setExecutor(new SpeedrunnerCommand(pointer, this));
         Bukkit.getServer().getPluginManager().registerEvents(new Events(this), this);
 
         createConfig();
